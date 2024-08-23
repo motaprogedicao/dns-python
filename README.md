@@ -1,1 +1,1 @@
-# dns-python
+# pentest-python
